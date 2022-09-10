@@ -1,0 +1,2 @@
+Hello World I'm doing the Odin Project!
+Wish me Luck!
